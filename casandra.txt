@@ -4,4 +4,6 @@ cassandra1
 cassandra2
 cassandra3
 pst1
+pst cd
+pst ci
 
