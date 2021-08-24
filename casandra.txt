@@ -1,0 +1,4 @@
+welcome casandra
+this test file for cassndra db test 
+cassandra1
+cassandra2
