@@ -1,4 +1,7 @@
-welcome casandra
+welcome pst
 this test file for cassndra db test 
 cassandra1
 cassandra2
+cassandra3
+pst1
+
